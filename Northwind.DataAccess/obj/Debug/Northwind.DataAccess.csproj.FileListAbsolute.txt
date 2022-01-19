@@ -1,0 +1,2 @@
+C:\Users\ASUS\Desktop\NLayeredProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\NLayeredProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache

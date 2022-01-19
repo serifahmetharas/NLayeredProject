@@ -1,0 +1,3 @@
+C:\Users\ASUS\Desktop\NLayeredProject\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\NLayeredProject\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Form1.resources
+C:\Users\ASUS\Desktop\NLayeredProject\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.GenerateResource.cache
