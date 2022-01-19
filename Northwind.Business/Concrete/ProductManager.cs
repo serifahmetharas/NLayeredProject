@@ -21,6 +21,7 @@ namespace Northwind.Business.Concrete
             _productDal = productDal;
 
             //Github denemesi.
+            //Deneme2
         }
 
         List<Product> IProductService.GetAll()
