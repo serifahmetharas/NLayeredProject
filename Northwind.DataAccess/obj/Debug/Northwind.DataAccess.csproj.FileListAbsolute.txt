@@ -1,2 +1,14 @@
-C:\Users\ASUS\Desktop\NLayeredProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.AssemblyReference.cache
-C:\Users\ASUS\Desktop\NLayeredProject\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\Northwind.Entities.dll
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\Northwind.Entities.pdb
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb
