@@ -8,5 +8,8 @@ namespace Northwind.Entities.Abstract
 {
     public interface IEntity
     {
+        // Sadece Product gibi Entity classlarının,
+        // birer Entity olduğunu göstermeye sağlayan,
+        // çıplak class kalmaması için oluşturduğumuz bir interface.
     }
 }

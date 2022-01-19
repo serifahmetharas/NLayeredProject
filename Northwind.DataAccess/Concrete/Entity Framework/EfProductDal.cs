@@ -12,5 +12,6 @@ namespace Northwind.DataAccess.Concrete.EntityFramework
 {
     public class EfProductDal : EfEntityRepositoryBase<Product,NorthwindContext>, IProductDal // Bir Class çıplak olmamalıdır. Aşağıdaki methodlar IProductDal interface inin implementi aracılığıyla gelmelidir.
     {
+
     }
 }
