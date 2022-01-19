@@ -19,6 +19,8 @@ namespace Northwind.Business.Concrete
                                                       // Entity veya NHibernate olarak belirtilerek çağırılır ve kod ona göre çalışır.
         {
             _productDal = productDal;
+
+            //Github denemesi.
         }
 
         List<Product> IProductService.GetAll()
