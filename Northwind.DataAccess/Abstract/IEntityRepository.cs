@@ -9,8 +9,10 @@ using System.Threading.Tasks;
 namespace Northwind.DataAccess.Abstract
 {
     public interface IEntityRepository<T> where T:class, IEntity,new() 
-    {
-        List<T> GetAll(Expression<Func<T,bool>> filter=null);
+    { // Sadece Product değil yeri geldiğinde Category entity de verileceği için
+      // <T> ile generic olarak çalışırız. Methodları buraya işleriz.
+        List<T> GetAll(Expression<Func<T,bool>> filter=null); // Filtre,parametre ekledik. Linq yardımıyla.
+                                                              // null , filtre vermek zorunda olmadığımızı gösterir.
         T Get(Expression<Func<T, bool>>filter);
         void Add(T entity);
         void Update(T entity);

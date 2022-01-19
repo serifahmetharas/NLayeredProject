@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace Northwind.DataAccess.Abstract
 {
-    public interface IProductDal : IEntityRepository<Product>
+    public interface ICategoryDal : IEntityRepository<Category>
     {
-        // EntityRepository nin burada Product için çalışması sağlanır.
 
     }
 }
