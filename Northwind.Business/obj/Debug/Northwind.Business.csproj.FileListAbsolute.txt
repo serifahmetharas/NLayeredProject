@@ -12,3 +12,8 @@ C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.Business\
 C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.csproj.CopyComplete
 C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.dll
 C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.pdb
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Business.dll.config
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.Business\bin\Debug\FluentValidation.dll
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.Business\bin\Debug\FluentValidation.xml
