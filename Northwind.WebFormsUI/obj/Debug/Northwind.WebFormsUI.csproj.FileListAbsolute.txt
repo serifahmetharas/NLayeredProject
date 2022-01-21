@@ -23,3 +23,5 @@ C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.WebFormsU
 C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Northwind.Business.dll.config
 C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.dll
 C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\FluentValidation.xml
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Ninject.dll
+C:\Users\ASUS\source\repos\CokKatmanliMimari\NLayeredAppDemo\Northwind.WebFormsUI\bin\Debug\Ninject.xml
